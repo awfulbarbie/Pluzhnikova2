@@ -1,0 +1,6 @@
+E:\Учебная практика\Задание 2\lab2.4(console)\lab2.4(console)\bin\Debug\lab2.4(console).exe.config
+E:\Учебная практика\Задание 2\lab2.4(console)\lab2.4(console)\bin\Debug\lab2.4(console).exe
+E:\Учебная практика\Задание 2\lab2.4(console)\lab2.4(console)\bin\Debug\lab2.4(console).pdb
+E:\Учебная практика\Задание 2\lab2.4(console)\lab2.4(console)\obj\Debug\lab2.4(console).csprojResolveAssemblyReference.cache
+E:\Учебная практика\Задание 2\lab2.4(console)\lab2.4(console)\obj\Debug\lab2.4(console).exe
+E:\Учебная практика\Задание 2\lab2.4(console)\lab2.4(console)\obj\Debug\lab2.4(console).pdb
